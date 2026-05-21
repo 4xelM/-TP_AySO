@@ -1,8 +1,4 @@
 # TP_AySO
-Alumno:Axel
-cat << FINO >> README.md 
-Alumno:Axel
-
-Alumno:AxelMadonado
+Alumno:Axel Maldonado
 Division:116
 Turno:Mañana
